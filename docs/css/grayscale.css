@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #ebd722;
-  border: 1px solid #ebd722;
+  color: #c4d110;
+  border: 1px solid #c4d110;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -74,15 +74,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #ebd722;
+    color: #c4d110;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #b1a110;
+    color: #818a0b;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #ebd722;
+    color: #c4d110;
     outline: none;
-    border-bottom: 0.25rem solid #ebd722;
+    border-bottom: 0.25rem solid #c4d110;
   }
 }
 
@@ -150,20 +150,20 @@
 }
 
 .btn-primary {
-  background-color: #ebd722;
+  background-color: #c4d110;
 }
 
 .btn-primary:hover {
-  background-color: #c8b612;
+  background-color: #98a20c;
 }
 
 .btn-primary:focus {
-  background-color: #c8b612;
+  background-color: #98a20c;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #b1a110 !important;
+  background-color: #818a0b !important;
 }
 
 .about-section {
@@ -187,7 +187,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #ebd722;
+    border-left: 0.5rem solid #c4d110;
   }
 }
 
@@ -201,7 +201,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #ebd722;
+    border-color: #c4d110;
     border-width: .25rem;
     width: 30%;
   }
@@ -235,7 +235,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #ebd722;
+  border-bottom: 0.25rem solid #c4d110;
 }
 
 .contact-section .card h4 {
@@ -246,7 +246,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #ebd722;
+  border-color: #c4d110;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -279,12 +279,12 @@ body {
 }
 
 a {
-  color: #ebd722;
+  color: #c4d110;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #998b0e;
+  color: #6b7209;
 }
 
 .bg-black {
@@ -292,11 +292,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #ebd722 !important;
+  background-color: #c4d110 !important;
 }
 
 .text-primary {
-  color: #ebd722 !important;
+  color: #c4d110 !important;
 }
 
 footer {
