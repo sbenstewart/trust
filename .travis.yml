@@ -4,4 +4,4 @@ node_js:
 env:
   - TEST_DIR=docs
 
-script: cd $TEST_DIR && npm install gulp-cli -g && npm start
+script: cd $TEST_DIR && npm install gulp-cli -g && npm install && npm start
