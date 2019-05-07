@@ -4,4 +4,4 @@ node_js:
 env:
   - TEST_DIR=docs
 
-script: cd $TEST_DIR && gulp watch
+script: cd $TEST_DIR && npm install && gulp watch
