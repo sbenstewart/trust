@@ -1,0 +1,25 @@
+Landing page 
+	Logo space 
+	Virubaaksha Educational font and alphabet colour to be modified 
+	It cannot read as Virubaaksha Education either it should read as Virubaaksha Educational Trust or Virubaaksha 
+	Top left “Virubaaksha educational” word needs to be removed 
+	Tagline for Virubaaksha can be “creating inclusive world for all” or “Rightfully everyone’s’” 
+	Scrolling is not proper – scroll to automatically take to next page and not in between 
+	Social media links to be on top right corner next to tabs 
+	Include two more tabs – purpose and contribute 
+About page
+	About page looks good, will share content shortly 
+	Tab image reads greyscale – this needs to be changed instead it can read “Virubaaksha”
+Include tab purpose 
+	Purpose would define what we do and our intention
+	In this page we can have agenda and school graphics 
+	Agenda to read as – to setup a working model which inspires 
+o	students with learning differences to learn and grow 
+o	teachers and coaches with scientific learning tools and methodologies 
+o	philanthropists with scalable and sustainable working model 
+Contribute 
+	Donte for a cause 
+	Volunteer 
+	Talk about us 
+Contact
+	Contact page – subscription option not required
