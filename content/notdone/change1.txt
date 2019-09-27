@@ -1,7 +1,5 @@
 Landing page 
-	Logo space 
 	Virubaaksha Educational font and alphabet colour to be modified 
-	It cannot read as Virubaaksha Education either it should read as Virubaaksha Educational Trust or Virubaaksha 
 	Top left “Virubaaksha educational” word needs to be removed 
 	Tagline for Virubaaksha can be “creating inclusive world for all” or “Rightfully everyone’s’” 
 	Scrolling is not proper – scroll to automatically take to next page and not in between 
