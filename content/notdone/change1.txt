@@ -1,12 +1,8 @@
 Landing page 
-	Virubaaksha Educational font and alphabet colour to be modified 
-	Top left “Virubaaksha educational” word needs to be removed  
-	Scrolling is not proper – scroll to automatically take to next page and not in between 
 	Social media links to be on top right corner next to tabs 
 	Include two more tabs – purpose and contribute 
 About page
 	About page looks good, will share content shortly 
-	Tab image reads greyscale – this needs to be changed instead it can read “Virubaaksha”
 Include tab purpose 
 	Purpose would define what we do and our intention
 	In this page we can have agenda and school graphics 
