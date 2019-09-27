@@ -1,7 +1,6 @@
 Landing page 
 	Virubaaksha Educational font and alphabet colour to be modified 
-	Top left “Virubaaksha educational” word needs to be removed 
-	Tagline for Virubaaksha can be “creating inclusive world for all” or “Rightfully everyone’s’” 
+	Top left “Virubaaksha educational” word needs to be removed  
 	Scrolling is not proper – scroll to automatically take to next page and not in between 
 	Social media links to be on top right corner next to tabs 
 	Include two more tabs – purpose and contribute 
